@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\nick\documents\visual studio 2015\projects\ds3cmd\ds3cmd\main.cpp(10): warning C4305: 'initializing': truncation from '__int64' to 'DWORD'
+c:\users\nick\documents\visual studio 2015\projects\ds3cmd\ds3cmd\main.cpp(10): warning C4309: 'initializing': truncation of constant value
+  ds3cmd.vcxproj -> C:\Users\Nick\documents\visual studio 2015\Projects\ds3cmd\Debug\ds3cmd.exe
+  ds3cmd.vcxproj -> C:\Users\Nick\documents\visual studio 2015\Projects\ds3cmd\Debug\ds3cmd.pdb (Partial PDB)
